@@ -1,0 +1,330 @@
+[
+    {
+        "name": "OPPO F21s Pro 5G",
+        "price": 245.67,
+        "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
+        "price": 150.32,
+        "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Dell Inspiron 3511 Laptop",
+        "price": 440.57,
+        "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/3.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 3 Laptop",
+        "price": 250.45,
+        "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/6.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "ASUS VivoBook 15 Laptop",
+        "price": 767.32,
+        "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/7.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+        "price": 15.46,
+        "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Campus Men's Maxico Running Shoes",
+        "price": 10.12,
+        "description": "The high raised back cover with extra padding.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/8.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Nike Air Zoom Pegasus",
+        "price": 120.99,
+        "description": "Lightweight running shoes with responsive cushioning.",
+        "ratings": 4.5,
+        "images": [{"image": "/images/products/9.jpg"}],
+        "category": "Shoes",
+        "seller": "Nike Store",
+        "stock": 15,
+        "numOfReviews": 28,
+        "reviews": []
+    },
+    {
+        "name": "Apple iPhone 14 Pro",
+        "price": 999.99,
+        "description": "Latest smartphone with A16 Bionic chip and 48MP camera.",
+        "ratings": 4.8,
+        "images": [{"image": "/images/products/10.jpg"}],
+        "category": "Electronics",
+        "seller": "Apple Store",
+        "stock": 10,
+        "numOfReviews": 45,
+        "reviews": []
+    },
+    {
+        "name": "Sony WH-1000XM4 Headphones",
+        "price": 349.99,
+        "description": "Industry-leading noise cancellation with 30-hour battery life.",
+        "ratings": 4.7,
+        "images": [{"image": "/images/products/11.jpg"}],
+        "category": "Audio",
+        "seller": "Sony",
+        "stock": 20,
+        "numOfReviews": 60,
+        "reviews": []
+    },
+    {
+        "name": "Samsung 55-inch 4K Smart TV",
+        "price": 699.99,
+        "description": "Crystal UHD display with HDR and smart features.",
+        "ratings": 4.6,
+        "images": [{"image": "/images/products/12.jpg"}],
+        "category": "Home Appliances",
+        "seller": "Samsung",
+        "stock": 5,
+        "numOfReviews": 34,
+        "reviews": []
+    },
+    {
+        "name": "Adidas Ultraboost 22",
+        "price": 180.00,
+        "description": "High-performance running shoes with energy return technology.",
+        "ratings": 4.5,
+        "images": [{"image": "/images/products/13.jpg"}],
+        "category": "Shoes",
+        "seller": "Adidas",
+        "stock": 12,
+        "numOfReviews": 40,
+        "reviews": []
+    },
+    {
+        "name": "Dell XPS 13 Laptop",
+        "price": 1299.99,
+        "description": "Ultra-thin laptop with Intel i7 processor and 16GB RAM.",
+        "ratings": 4.7,
+        "images": [{"image": "/images/products/14.jpg"}],
+        "category": "Computers",
+        "seller": "Dell Store",
+        "stock": 8,
+        "numOfReviews": 22,
+        "reviews": []
+    },
+    {
+        "name": "Canon EOS R5 Mirrorless Camera",
+        "price": 3899.99,
+        "description": "Professional-grade camera with 8K video recording.",
+        "ratings": 4.9,
+        "images": [{"image": "/images/products/15.jpg"}],
+        "category": "Cameras",
+        "seller": "Canon",
+        "stock": 6,
+        "numOfReviews": 18,
+        "reviews": []
+    },
+    {
+        "name": "Bose SoundLink Bluetooth Speaker",
+        "price": 129.99,
+        "description": "Portable speaker with deep bass and 12-hour battery life.",
+        "ratings": 4.6,
+        "images": [{"image": "/images/products/16.jpg"}],
+        "category": "Audio",
+        "seller": "Bose",
+        "stock": 25,
+        "numOfReviews": 50,
+        "reviews": []
+    },
+    {
+        "name": "Fitbit Charge 5 Fitness Tracker",
+        "price": 149.95,
+        "description": "Health and fitness tracker with built-in GPS and heart rate monitor.",
+        "ratings": 4.4,
+        "images": [{"image": "/images/products/17.jpg"}],
+        "category": "Wearables",
+        "seller": "Fitbit",
+        "stock": 30,
+        "numOfReviews": 70,
+        "reviews": []
+    },
+    {
+        "name": "North Face Men's Winter Jacket",
+        "price": 199.99,
+        "description": "Insulated waterproof jacket for extreme cold weather.",
+        "ratings": 4.8,
+        "images": [{"image": "/images/products/18.jpg"}],
+        "category": "Clothing",
+        "seller": "North Face",
+        "stock": 20,
+        "numOfReviews": 25,
+        "reviews": []
+    },
+    {
+        "name": "Samsung Galaxy Watch 5",
+        "price": 249.99,
+        "description": "Smartwatch with AMOLED display and advanced health tracking.",
+        "ratings": 4.6,
+        "images": [{"image": "/images/products/19.jpg"}],
+        "category": "Wearables",
+        "seller": "Samsung",
+        "stock": 18,
+        "numOfReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "HyperX Cloud II Gaming Headset",
+        "price": 99.99,
+        "description": "Comfortable headset with 7.1 surround sound for gaming.",
+        "ratings": 4.7,
+        "images": [{"image": "/images/products/20.jpg"}],
+        "category": "Gaming",
+        "seller": "HyperX",
+        "stock": 40,
+        "numOfReviews": 100,
+        "reviews": []
+    },
+    {
+        "name": "GoPro Hero 10 Black",
+        "price": 499.99,
+        "description": "Waterproof action camera with 5.3K video recording.",
+        "ratings": 4.8,
+        "images": [{"image": "/images/products/21.jpg"}],
+        "category": "Cameras",
+        "seller": "GoPro",
+        "stock": 10,
+        "numOfReviews": 55,
+        "reviews": []
+    },
+    {
+        "name": "Logitech MX Master 3S Mouse",
+        "price": 99.99,
+        "description": "Ergonomic wireless mouse with precision control.",
+        "ratings": 4.9,
+        "images": [{"image": "/images/products/22.jpg"}],
+        "category": "Accessories",
+        "seller": "Logitech",
+        "stock": 25,
+        "numOfReviews": 48,
+        "reviews": []
+    },
+    {
+        "name": "Samsung Portable SSD T7",
+        "price": 159.99,
+        "description": "1TB high-speed external SSD with USB-C support.",
+        "ratings": 4.8,
+        "images": [{"image": "/images/products/23.jpg"}],
+        "category": "Storage",
+        "seller": "Samsung",
+        "stock": 20,
+        "numOfReviews": 75,
+        "reviews": []
+    },
+    {
+        "name": "Instant Pot Duo 7-in-1",
+        "price": 89.99,
+        "description": "Multi-functional pressure cooker for easy cooking.",
+        "ratings": 4.6,
+        "images": [{"image": "/images/products/24.jpg"}],
+        "category": "Kitchen",
+        "seller": "Instant Pot",
+        "stock": 35,
+        "numOfReviews": 200,
+        "reviews": []
+    },
+    {
+        "name": "Nike Dri-FIT Training T-Shirt",
+        "price": 29.99,
+        "description": "Moisture-wicking performance tee for workouts.",
+        "ratings": 4.5,
+        "images": [{"image": "/images/products/25.jpg"}],
+        "category": "Clothing",
+        "seller": "Nike",
+        "stock": 50,
+        "numOfReviews": 90,
+        "reviews": []
+    },
+    {
+        "name": "Razer BlackWidow Mechanical Keyboard",
+        "price": 149.99,
+        "description": "RGB gaming keyboard with tactile mechanical switches.",
+        "ratings": 4.7,
+        "images": [{"image": "/images/products/26.jpg"}],
+        "category": "Gaming",
+        "seller": "Razer",
+        "stock": 22,
+        "numOfReviews": 65,
+        "reviews": []
+    }
+]
